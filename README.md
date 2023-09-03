@@ -16,7 +16,7 @@ const Eduard = {
 ```
 
 <p>I am currently pursuing a Google certification ✔ on website creation and design <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p>I have a website <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p>I have my personal website <a href="https://eduardoyanes.vercel.app/">website</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people in the world!</em></p>
 
