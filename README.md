@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **a Google certification for website creation and design.**
 
-- 👨‍💻 All of my projects are available at [https://eduardoyanes.vercel.app/](https://eduardoyanes.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://eduardo-yanes.vercel.app/](https://eduardo-yanes.vercel.app/)
 
 - 📫 How to reach me **eduarygp@gmail.com**
 
