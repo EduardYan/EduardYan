@@ -5,13 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [https://eduardo-yanes.vercel.app/](https://eduardo-yanes.vercel.app/)
 
-- 📫 How to reach me **eduarygp@gmail.com**
-
 <h3 align="center">📄‍💻 A little more about me... </h3>
 
 ```javascript
 const Eduard = {
-  pronouns: "her",
+  pronouns: "his",
   code: [Javascript, HTML, CSS, Python],
   tools: [Node, Docker],
   challenge: "Learn about website creation and design",
