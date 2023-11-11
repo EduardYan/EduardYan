@@ -18,7 +18,6 @@ const Eduard = {
 
 - ⚡ Fun fact **"There are two things that are infinite human stupidity and the universe, and of the universe I am not sure"**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
