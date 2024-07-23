@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo Yanes 👨🏻‍💻</h1>
-<h3 align="center">Programming student about web development.</h3>
+<h3 align="center">Web developer eager to learn and face new challenges.</h3>
 <div align='center'>
   <samp>
     <a href='https://daniel-eduardo-yanes.vercel.app/'>website</a> 🌎
