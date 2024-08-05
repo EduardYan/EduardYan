@@ -3,6 +3,6 @@
 <div align='center'>
   <samp>
     <a href='https://daniel-eduardo-yanes.vercel.app/'>Website</a> 🌎
-    <a href='https://daniel-eduardo-yanes.vercel.app/'>Instagram</a> 💬
+    <a href='https://www.instagram.com/dan_yan581/'>Instagram</a> 💬
   </samp>
 </div>
